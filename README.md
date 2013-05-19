@@ -7,6 +7,4 @@ Compiling & Usage:
 ==================
    	make
 	./client cli.cfg
-
-   In another terminal,
-	./server serv.cfg
+	./server serv.cfg  (In another terminal)
