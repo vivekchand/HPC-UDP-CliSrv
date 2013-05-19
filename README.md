@@ -8,5 +8,5 @@ Compiling & Usage:
    	make
 	./client cli.cfg
 
-In another terminal,
+   In another terminal,
 	./server serv.cfg
